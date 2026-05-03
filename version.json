@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "release_date": "2026-05-03",
-  "notes": "เพิ่ม Block Schedule, Password Protection, Export/Import, Hit Counter และคู่มือผู้ใช้",
+  "notes": "เพิ่มการเชื่อมต่อ Log Server — ส่ง Log อัตโนมัติทุกครั้งที่มีการบล็อก",
   "download_url": "https://github.com/alphapum/V89-ext-block-web-update/releases/latest"
 }
