@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "release_date": "2026-05-03",
-  "notes": "Initial release — V89 Cyber Security Website Blocker",
+  "notes": "เพิ่ม Block Schedule, Password Protection, Export/Import, Hit Counter และคู่มือผู้ใช้",
   "download_url": "https://github.com/alphapum/V89-ext-block-web-update/releases/latest"
 }
